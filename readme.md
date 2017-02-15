@@ -1,7 +1,7 @@
-Webpack React Boilerplate
+#Webpack React Boilerplate
 
-Features
+###Features
 
-1. Converts jsx,es2015
-2. Supports sass 
-3. Webpack devtool source map for easier debugging
+* Converts jsx,es2015
+* Supports sass 
+* Webpack devtool source map for easier debugging
